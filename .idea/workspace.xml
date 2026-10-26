@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ffad0957-08c4-414c-8522-736d2c18778e" name="Changes" comment="Initial commit of lab1">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WelcomeScreen/lab1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,23 +49,23 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0" />
-      <entry key="S2" value="1.0" />
-      <entry key="S5" value="1.0" />
-      <entry key="S10" value="1.0" />
-      <entry key="S30" value="1.0" />
-      <entry key="S60" value="1.0000000129467415" />
-      <entry key="M2" value="1.0001668614691703" />
-      <entry key="M5" value="1.0883877225701275" />
-      <entry key="M10" value="2.7177707121741204" />
-      <entry key="M15" value="8.084770740621813" />
-      <entry key="M30" value="39.34120128310638" />
-      <entry key="H1" value="97.67911713234658" />
-      <entry key="H2" value="159.13130885535315" />
-      <entry key="H4" value="208.14099136936105" />
-      <entry key="D1" value="330.2719407840458" />
-      <entry key="W1" value="952.8996753493147" />
+      <entry key="MS100" value="1.563989987978935" />
+      <entry key="MS500" value="3.88074049760415" />
+      <entry key="S2" value="6.262287926752618" />
+      <entry key="S5" value="8.925783632034392" />
+      <entry key="S10" value="11.116668898624303" />
+      <entry key="S30" value="13.591265713283647" />
+      <entry key="S60" value="14.584004847883545" />
+      <entry key="M2" value="15.323799507021947" />
+      <entry key="M5" value="16.12363027135345" />
+      <entry key="M10" value="17.60304161425133" />
+      <entry key="M15" value="21.976452397945348" />
+      <entry key="M30" value="50.098134910107696" />
+      <entry key="H1" value="106.98709202488115" />
+      <entry key="H2" value="169.59380613634954" />
+      <entry key="H4" value="220.48992543284464" />
+      <entry key="D1" value="345.30000303730446" />
+      <entry key="W1" value="968.4989034997699" />
     </decayedCancelled>
     <decayedSelected>
       <entry key="MS100" value="0.0" />
@@ -77,34 +76,34 @@
       <entry key="S30" value="0.0" />
       <entry key="S60" value="0.0" />
       <entry key="M2" value="0.0" />
-      <entry key="M5" value="2.0924343317123532E-269" />
-      <entry key="M10" value="5.379177991247712E-135" />
-      <entry key="M15" value="3.6473824784940058E-90" />
-      <entry key="M30" value="2.6122149842135458E-45" />
-      <entry key="H1" value="7.16424847496444E-23" />
-      <entry key="H2" value="1.194460619794996E-11" />
-      <entry key="H4" value="4.922384766476154E-6" />
-      <entry key="D1" value="0.391540260935135" />
-      <entry key="W1" value="4.503056400207297" />
+      <entry key="M5" value="8.964048417496948E-270" />
+      <entry key="M10" value="3.5208059793293866E-135" />
+      <entry key="M15" value="2.7495740877685047E-90" />
+      <entry key="M30" value="2.2680413895615243E-45" />
+      <entry key="H1" value="6.675620960611168E-23" />
+      <entry key="H2" value="1.1530080804622223E-11" />
+      <entry key="H4" value="4.836217402606482E-6" />
+      <entry key="D1" value="0.39038950648426407" />
+      <entry key="W1" value="4.50116334504554" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9526379980439373" />
-      <entry key="MS500" value="0.9903428719330246" />
-      <entry key="S2" value="0.9975769252644544" />
-      <entry key="S5" value="0.9990300646389034" />
-      <entry key="S10" value="0.9995149146655609" />
-      <entry key="S30" value="0.9998382787361629" />
-      <entry key="S60" value="0.9999191490442165" />
-      <entry key="M2" value="1.0001264215030086" />
-      <entry key="M5" value="1.0883675203824792" />
-      <entry key="M10" value="2.717462432466307" />
-      <entry key="M15" value="8.083517813813765" />
-      <entry key="M30" value="39.337153420087795" />
-      <entry key="H1" value="97.67388888730646" />
-      <entry key="H2" value="159.12706704774354" />
-      <entry key="H4" value="208.13826707876564" />
-      <entry key="D1" value="330.6627624875851" />
-      <entry key="W1" value="957.4023918431642" />
+      <entry key="MS100" value="1.5001240374640583" />
+      <entry key="MS500" value="3.8464690567387723" />
+      <entry key="S2" value="6.248009243692891" />
+      <entry key="S5" value="8.91731040876769" />
+      <entry key="S10" value="11.111286128730073" />
+      <entry key="S30" value="13.589027636002577" />
+      <entry key="S60" value="14.582789732636154" />
+      <entry key="M2" value="15.323155314513361" />
+      <entry key="M5" value="16.123356332637066" />
+      <entry key="M10" value="17.602705412338725" />
+      <entry key="M15" value="21.975417851758674" />
+      <entry key="M30" value="50.09457515022913" />
+      <entry key="H1" value="106.98219769908967" />
+      <entry key="H2" value="169.58970018996462" />
+      <entry key="H4" value="220.4872431549491" />
+      <entry key="D1" value="345.68967515170044" />
+      <entry key="W1" value="972.9997269461168" />
     </decayedShown>
   </component>
   <component name="ProblemsViewState">
@@ -311,7 +310,7 @@
       <updated>1791320277180</updated>
       <workItem from="1791320278188" duration="1539000" />
       <workItem from="1792179360860" duration="6420000" />
-      <workItem from="1792600934632" duration="34909000" />
+      <workItem from="1792600934632" duration="35534000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit of lab1">
       <option name="closed" value="true" />
@@ -353,7 +352,23 @@
       <option name="project" value="LOCAL" />
       <updated>1793057944383</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Initial commit of lab1">
+      <option name="closed" value="true" />
+      <created>1793058258269</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1793058258269</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Initial commit of lab1">
+      <option name="closed" value="true" />
+      <created>1793058691799</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1793058691799</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -393,9 +408,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Revert &quot;Initial commit&quot;&#10;&#10;This reverts commit 71fa36ae9b1ece23b79936977316ee92c5af123c." />
     <MESSAGE value="Revert &quot;Initial commit of lab1&quot;&#10;&#10;This reverts commit ba7f2f648d6ba149f51cdf758b7c40cf992a7635." />
-    <MESSAGE value="Initial commit of lab1" />
     <MESSAGE value="Initial commit of lab7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial commit of lab7" />
+    <MESSAGE value="Initial commit of lab1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit of lab1" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PycharmProjects$lab6.coverage" NAME="lab6 Coverage Results" MODIFIED="1793033320123" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
